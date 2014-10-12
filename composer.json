@@ -21,5 +21,8 @@
         "psr-4": {
             "vova07\\base\\”: ""
         }
+    },
+    "extra": {
+        "bootstrap": "vova07\\base\\Bootstrap"
     }
 }
