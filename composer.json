@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vova07\\rbac\\": ""
+            "vova07\\base\\”: ""
         }
     }
 }
