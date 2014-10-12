@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vova07\\base\\”: ""
+            "vova07\\base\\": ""
         }
     },
     "extra": {
