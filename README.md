@@ -1,3 +1,5 @@
+# WARNING: This extension is not more maintained
+
 Yii2-Start base.
 ================
 This is the base extension of Yii2-Start application.
